@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zeichnung()
+comment0.text=\r\n\ Erzeuge\ ein\ Exemplar\ der\ Klasse\ Zeichnung\r\n
+comment1.params=
+comment1.target=void\ zeichne()
+comment1.text=\r\n\ Zeichne\ die\ Zeichnung.\r\n
+numComments=2
